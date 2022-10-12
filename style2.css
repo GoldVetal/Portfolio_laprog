@@ -1,0 +1,33 @@
+.bloc1 {
+	background-color: yellow;
+	height: 300px;
+	width: 320px;
+	float: left;
+	margin-left: 230px;
+}
+.bloc2 {
+	background-color: blueviolet;
+	height: 300px;
+	width: 320px;
+	float: left;
+	margin-left: 230px;
+}
+.bloc3 {
+	background-color: pink;
+	height: 300px;
+	width: 320px;
+	float: left;
+	margin-left: 230px;
+}
+.bloc4 {
+	background-color: pink;
+	height: 300px;
+	width: 320px;
+	float: left;
+	margin-left: 230px;
+	clear: both;
+}
+.d1{
+	border-radius: 4px;
+	border: 4px solid black;
+}
