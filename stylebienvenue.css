@@ -1,0 +1,14 @@
+body {
+color:black;
+background-color:white;
+background-image:url(blackmirror.gif);
+text-align: center;
+}
+h1 {
+	color: white;
+}
+p {
+	margin-top: 75px;
+	color: white;
+	font-size: large;
+}
