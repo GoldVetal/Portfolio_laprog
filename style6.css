@@ -1,0 +1,48 @@
+body
+{
+	background-color: black;
+	text-align: center;
+}
+h1
+{
+	color: darkred;
+	font-family: verdana;
+	font-size: 2em;
+}
+div
+{
+	border: 2px solid darkred;
+	border-radius: 26px;
+	width: 18%;
+	margin-left: 38%;
+	margin-right: 50%;
+	padding: 2%;
+}
+button
+{
+	border: 2px solid darkred;
+	border-radius: 26px;
+	text-align: center;
+	padding: 15px 32px;
+	background-color: black;
+	width: 150px;
+	margin-top: 20px;
+	color: darkred;
+}
+button:hover
+{
+	background-color: darkred;
+	color: black;
+	border: 2px solid black;
+}
+input
+{
+	border: 2px solid darkred;
+	border-radius: 26px;
+	text-align: center;
+	padding: 15px 32px;
+	background-color: black;
+	width: 230px;
+	margin-top: 5px;
+	color: darkred;
+}
