@@ -1,0 +1,57 @@
+body {
+	border: solid black;
+	margin-left: 25%;
+	width: 48.5%;
+}
+
+div {
+	margin-top: 10px;
+	border: 2px solid black;
+	margin-bottom: 10px;
+	width: 900px;
+	margin-left: 10px;
+	border-radius: 2px;
+
+}
+
+
+.d1 {
+	border-radius: 2px;
+	border-radius: 2px solid black;
+	height: 300px;
+}
+.d2 {
+	border-radius: 2px;
+	border-radius: 2px solid black;
+	height: 300px;
+}
+.d3 {
+	border-radius: 2px;
+	border-radius: 2px solid black;
+	height: 300px;
+}
+.d4 {
+	border-radius: 2px;
+	border-radius: 2px solid black;
+	height: 300px;
+}
+p {
+	float: left;
+	margin-bottom: 20px;
+	margin-left: 10px;
+}
+.p1 {
+	float: left;
+	margin-bottom: 20px;
+	margin-left: 280px;
+	font-weight: bold;
+}
+.p2 {
+	float: left;
+	margin-bottom: 20px;
+	margin-left: 167px;
+	font-weight: bold;
+}
+img {
+	float: left;
+	margin-left: 500px;
