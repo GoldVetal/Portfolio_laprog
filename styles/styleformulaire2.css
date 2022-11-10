@@ -21,6 +21,7 @@
 }
 .p4 {
 	margin-top: 42.5px;
+	margin-bottom: 38px;
 }
 .div2 {
 	float: left;
@@ -28,3 +29,21 @@
 	height: 700px;
 	text-align: center;
 }
+button
+{
+	border: 2px solid black;
+	border-radius: 26px;
+	text-align: center;
+	padding: 15px 32px;
+	background-color: white;
+	width: 150px;
+	margin-top: 20px;
+	color: black;
+}
+button:hover
+{
+	background-color: black;
+	color: white;
+	border: 2px solid white;
+}
+
