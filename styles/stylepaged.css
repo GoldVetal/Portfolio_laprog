@@ -3,7 +3,7 @@ body{
 	margin: 0px;
 	padding: 0px;
 	background-image: url(../images/beau.jpg) ;
-	background-size: 1920px 905px;
+	background-size: 1920px 915px;
 }
 h1{
 	color: black;
@@ -115,5 +115,3 @@ nav > ul > li:hover a{
 nav input[type=checkbox]{
 	display: none;
 }
-
-
