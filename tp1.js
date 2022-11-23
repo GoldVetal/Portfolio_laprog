@@ -14,7 +14,7 @@ function calcul_moyenne()
     document.write ("Voici la somme des coefficients: " + sommecoef + "<br>");
     var moyenne= somme/sommecoef;
 
-    document.write ("Voici la moyenne" + moyenne + "<br>");
+    document.write ("Voici la moyenne: " + moyenne + "<br>");
 
     if (moyenne<10)
     document.write("Vous êtes redoublant")
