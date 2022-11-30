@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+}
+div{
+    margin: 20px;
+    border-color: brown;
+    border-radius: 16px;
+    width: 60%;
+}
+button{
+    padding: 20px;
+    margin: 30px;
+    border-radius: 20px;
+    border-color: rebeccapurple;
+}
+button:hover{
+    border-color: black;
+    background-color: white;
+}
