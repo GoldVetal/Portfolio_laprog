@@ -115,3 +115,7 @@ nav > ul > li:hover a{
 nav input[type=checkbox]{
 	display: none;
 }
+audio{
+	margin-top: 41%;
+	margin-left: 84%;
+}
