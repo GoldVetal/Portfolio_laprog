@@ -3,7 +3,7 @@ body{
 	margin: 0px;
 	padding: 0px;
 	background-image: url(../images/beau.jpg) ;
-	background-size: 1920px 915px;
+	background-size: 1920px 1080px;
 }
 h1{
 	color: black;
@@ -116,6 +116,6 @@ nav input[type=checkbox]{
 	display: none;
 }
 audio{
-	margin-top: 41%;
-	margin-left: 84%;
+	margin-top: 20%;
+	margin-left: 80%;
 }
