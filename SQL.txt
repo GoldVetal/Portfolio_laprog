@@ -1,0 +1,41 @@
+Requête SQL pour exploiter Base de données: location_voiture
+
+1)Afficher toutes les marques de voitures
+
+SELECT marque
+FROM `voiture`
+
+2)Afficher les marques et les couleurs de toutes les voitures
+
+SELECT `marque`,`couleur`
+FROM `voiture`
+
+3)Afficher les immatriculations des voitures noires
+
+SELECT `immatriculation`
+FROM `voiture` 
+WHERE `couleur` = 'noir'
+
+4)Afficher les informations sur les clients qui habitent dans la ville d'Egly
+
+SELECT *
+FROM `clients`
+WHERE `ville` = 'Egly'
+
+5)Afficher toutes les voitures ayant un kilométrage inférieur à 100000km
+
+SELECT *
+FROM `voiture`
+WHERE `kilometrage` < '100000'
+
+6)Afficher les immatriculations des voitures diesel ayant un nombre de porte = à 3
+SELECT 'immatriculation'
+FROM `voiture` 
+WHERE `carburant` = 'diesel' 
+AND `nbr_porte` = '3'
+
+7)Afficher l'immatriculation, la marque, la couleur et le modèle de toutes les voitures de toutes les voitures mclaren
+
+SELECT `immatriculation` , `modele` , `marque`,`couleur`
+FROM `voiture`
+WHERE `marque` = 'mclaren'
