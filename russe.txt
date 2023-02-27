@@ -1,0 +1,42 @@
+Le russe
+
+Bonjour - Zdra stouille stya (a=é)
+Salut - pri-viet
+minyA zavOUt (prénom) - Je m'appelle (prénom)
+i ya nimnOga gavaryOU pa-rOUsski - Je parle un peu russe
+adIn got - Un an (si âge se termine par 1)
+
+Alphabet
+
+    A se prononce « A »,
+    Б se prononce « B »,
+    В se prononce « V »,
+    Г se prononce « Gué »,
+    Д se prononce « D »,
+    E se prononce « Yé »,
+    Ё se prononce « Yo ».
+    Ж se prononce « J »,
+    3 se prononce « Zé »,
+    И se prononce « I »,
+    Й se prononce « Yeu »,
+    K se prononce « K »,
+    Л se prononce « L ».
+    M se prononce « M »,
+    Н se prononce « N »,
+    O se prononce « O »,
+    П se prononce « P »,
+    Р se prononce « R »,
+    С se prononce « S »,
+    T se prononce « T ».
+    У se prononce « Ou »,
+    Ф se prononce « F »,
+    Х se prononce « Kha »,
+    Ц se prononce « Tseu »,
+    Ч se prononce « Tsheu »,
+    Ш se prononce « Sha »,
+    Щ se prononce « Shsheu »,
+    Ы se prononce « ɨ »,
+    Э se prononce « Hè »,
+    Ю se prononce « You »,
+    Я se prononce « Ya »,
+
